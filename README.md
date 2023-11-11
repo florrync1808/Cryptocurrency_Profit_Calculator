@@ -18,4 +18,6 @@ csv file containing the data for the calculator
 
 
 Screenshot 1
+
+
 ![Screenshot 2023-11-11 at 8 10 15 PM](https://github.com/florrync1808/Cryptocurrency_Profit_Calculator/assets/112406006/2b321f01-a760-41b2-ab77-348b07a43094)
