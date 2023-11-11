@@ -1,6 +1,7 @@
 # Cryptocurrency_Profit_Calculator
 
 **Overview**
+
 This is a simple Crypto Trade Profit Calculator developed in Python 3.11 using PyQt6 for the graphical user interface and pyqtGraph for plotting trade history. 
 
 
